@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8tJgxjDuBgvmoWBGk8az32qTTVhvmyen2lKFSTDTIqGH4pNRtRmT0RZCfYPFTQAwz2Xx/1SRMhxrRYm2es+nA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\leona\\OneDrive\\Documentos\\C#\\clima\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
